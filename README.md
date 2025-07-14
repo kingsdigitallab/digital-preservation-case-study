@@ -24,7 +24,18 @@ King's Digital Lab (KDL) successfully migrated 85 research projects spanning thr
 
 ### Example Projects
 
-_[Note: Add links to 3-5 representative preserved projects once available]_
+#### Containerised Projects
+
+- [Nineteenth-Century Serials Edition](https://kdl.kcl.ac.uk/projects/nineteenth-century-serials-edition/)
+
+#### Static with Enhanced Features
+
+- [Aphrodisias in Late Antiquity](https://insaph.kcl.ac.uk/ala2004/index.html)
+- [Mapping the Medieval Countryside](https://kdl.kcl.ac.uk/projects/ipm/)
+
+#### Basic Static Version
+
+- [Mozart and Material Culture](https://kdl.kcl.ac.uk/projects/mozartmc/)
 
 ### References
 

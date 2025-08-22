@@ -56,4 +56,4 @@ For questions about this migration project or KDL's digital preservation strateg
 
 ---
 
-_This repository supports the poster presentation "Preserving Access to Three Decades of Digital Humanities Research: Infrastructure Modernisation as Sustainability Practice" presented at [Conference Name, Date]._
+_This repository supports the poster presentation "Preserving Access to Three Decades of Digital Humanities Research: Infrastructure Modernisation as Sustainability Practice" presented at the Digital Humanities 2025 conference in Lisbon, 14-18 July 2025._

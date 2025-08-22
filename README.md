@@ -1,5 +1,7 @@
 # Preserving Access to Three Decades of Digital Humanities Research: Infrastructure Modernisation as Sustainability Practice
 
+![Poster](./poster.png)
+
 This repository contains supplementary materials for the poster presentation on King's Digital Lab's year-long migration from local VMware infrastructure to centrally managed OpenStack infrastructure.
 
 ## About the Project
